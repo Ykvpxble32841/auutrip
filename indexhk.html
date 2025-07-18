@@ -1,0 +1,753 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>2025 Australia-澳洲旅遊攻略 - 旅遊線路推薦</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="wap-font-scale" content="no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <link rel="stylesheet" type="text/css" href="static/css/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="static/css/style.css" />
+    <link rel="shortcut icon" href="https://zvtravel.com/wp-content/uploads/2024/01/s-3-2.png" />
+    <style>
+    .wuk_weixin {
+    color: #ea0008 !important;
+    background: #ffffff !important;
+    font-weight: bold !important;
+    }
+    .tishi {
+    color: #33D2FF !important;
+    background: #ffffff !important;
+    }
+    </style>
+    <script type="text/javascript">
+    /*根据不同的客户端(这里指移动端和pc端)引入样式*/
+    function IsPC() {
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone", "SymbianOS", "Windows Phone", "iPad", "iPod"];
+        for (var i in Agents) {
+            if (userAgentInfo.indexOf(Agents[i]) > 0) {
+                // 移动端
+                var linkNode = document.createElement("link");
+                linkNode.setAttribute("rel", "stylesheet");
+                linkNode.setAttribute("type", "text/css");
+                linkNode.setAttribute("href", "css/mobile.css");
+                document.head.appendChild(linkNode);
+                break;
+            } else {
+                // PC端
+                var linkNode = document.createElement("link");
+                linkNode.setAttribute("rel", "stylesheet");
+                linkNode.setAttribute("type", "text/css");
+                linkNode.setAttribute("href", "css/pc.css");
+                document.head.appendChild(linkNode);
+                break;
+            }
+        }
+    }
+    IsPC();
+    </script>
+    <link rel="stylesheet" type="text/css" href="static/css/yellowd.css" />
+    <link rel="stylesheet" type="text/css" href="static/css/pc.css" />
+    <link href="static/css/layer.css" type="text/css" rel="styleSheet" id="layermcss" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NG8CB8PP');</script>
+<!-- End Google Tag Manager -->
+</head>
+
+<body style="">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NG8CB8PP"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <!-- PC端导航 start -->
+    <div class="top" id="top">
+        <div class="logo">
+            <img src="static/picture/logo.png" id="" />
+            <span id="copyrightlogo"></span>
+            <div class="search">
+                <div class="bar1">
+                    <input type="text" placeholder="请输入您要搜索的内容..." />
+                    <button type="submit"></button>
+                </div>
+            </div>
+            <div class="nav">
+                <div class="nav-title">
+                    <span id="item2" onclick="MoveAnchor('content');">首页</span>
+                    <span id="item4" onclick="MoveAnchor('content');">澳洲旅遊攻略</span>
+                    <span id="item4" onclick="MoveAnchor('content');">澳洲旅遊包車</span>
+                    <span id="item4" onclick="MoveAnchor('content');">澳洲自由行路線</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="topimg" id="adimg">
+        <img src="static/picture/7815858222281.jpg" />
+        
+        <div class="topbg">
+            <div class="toptb">
+                <div class="lf">
+                    <div class="photo" id="authorphoto" onclick="OpenLoginPC()">
+                        <img src="static/picture/1678864952489295.jpg" />
+                    </div>
+                    <div class="t1">
+                        <span id="authorname" onclick="OpenLoginPC()">新加坡·徐雯雯</span> |
+                        <span id="authorlevel">攻略求助</span>
+                    </div>
+                </div>
+                <div class="rf">
+                    <div class="t1">
+                        <span id="title">最近想去澳洲旅遊，帶父母一起，一家6口人，因為父母稍微上了歲數，想走輕鬆一些的路線，求詳細的自由行攻略，怎麼玩比較好？</span>
+                    </div>
+                    <div class="t2">
+                        <div class="items" style="float:left">
+                            <span id="CxDateTime" class="fa fa-car fa-3x">&nbsp;澳洲自由行</span>
+                        </div>
+                        <div class="items" style="float:left">
+                            <span id="CxGroup" class="fa fa-users fa-3x">&nbsp;澳洲旅遊攻略和遊記</span>
+                        </div>
+                    </div>
+                    <div class="t3">
+                        
+                        <div class="btn1">酒店攻略 </div>
+                        
+                        <div class="btn2">路線攻略 </div>
+                        
+                        <div class="btn1">省錢攻略 </div>
+                        
+                        <div class="btn2">包車攻略 </div>
+                        
+                    </div>
+                    <div class="t4">
+                        分享時間：
+                        <span id="createime">26天前</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 閲讀量：10W+ 
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        
+    </div>
+    <div class="mobile">
+        <div class="top" style='display:block'>
+            <div class="lf">
+                <img src="static/picture/logo.png">
+            </div>
+            <div class="rf" style='display:block'>
+                <img src="static/picture/m_04.jpg">
+                <img src="static/picture/m_05.jpg">
+                <img src="static/picture/m_06.jpg">
+                <img src="static/picture/m_07.jpg">
+            </div>
+            <div class="scvimgs"><img src="static/picture/1751219655413cn1.jpg"> </div>
+            <div class="otherlogo">
+                <span id="copyrightlogo"></span>
+            </div>
+            
+            <div class="tmc">
+                <div class="user">
+                    <div id="authorphoto" class="photo">
+                        <img src="static/picture/1678864952489295.jpg">
+                    </div>
+                    <div class="info">
+                        <p>
+                            <span id="authorname" style="font-size:14px;text-shadow:3px 2px 3px #333;">新加坡·徐雯雯</span>&nbsp;
+                            <span id="authorlevel" style="color:#000; background-color:#f2cd01; border-radius:5px; padding:1px 5px; font-size:12px;">攻略求助</span>
+                        </p>
+                        <p style="font-size:12px; text-shadow:3px 2px 3px #333;">
+                            旅遊達人 | 美食博主 | 穿搭達人
+                        </p>
+                    </div>
+                </div>
+                <div class="sc">
+                    <img src="static/picture/m_16.png">
+                    <img src="static/picture/m_18.png">
+                </div>
+            </div>
+            
+        </div>
+    </div>
+    <!-- 移动端标题头 end -->
+    <div class="linktb" id="linktb">
+        <div class="linkicon" style="left:50px; top:-13px;">
+            <img src="static/picture/xj.png" />
+        </div>
+        <div class="linkicon" style="left:230px; top:-13px;">
+            <img src="static/picture/xj.png" />
+        </div>
+        <div class="linkicon" style="left:450px; top:-13px;">
+            <img src="static/picture/xj.png" />
+        </div>
+        <div class="linkicon" style="left:1060px; top:-13px;">
+            <img src="static/picture/xj.png" />
+        </div>
+    </div>
+    <div class="container">
+        <div class="inbox">
+            <div class="warp">
+                <div class="youjicontent">
+                    最近想去澳洲旅遊，帶父母一起，一家6口人，因為父母稍微上了歲數，想走輕鬆一些的路線，求詳細的自由行攻略，怎麼玩比較好？
+                </div>
+                <div class="replytitle">
+                    <i class="fa fa-user-o fa-lg" style='color:orange'></i>&nbsp;網友最新評論(<script>
+                    var num = Math.floor(Math.random() * 100 + 18);
+                    document.write(num);
+                    </script>)
+                </div>
+                
+                <!-- 内容开始 -->
+                <div class="answerBox">
+                     
+                    <div class="item">
+                        <dl class=" clearfix">
+                            
+                            <dd>
+                                <div class="tit user-bar">
+                                    <a class="avatar"><img src="static/picture/1678866467331204.jpg" /></a>
+                                    <a class="name">新加坡·刘美玲</a>
+                                    <a class="level">精彩回覆</a>
+                                </div>
+                                <div class="con" style="font-size: 18px;text-indent:2em;">
+                                  <p>上週我們一家剛從澳洲旅遊回來，我精簡的分享下親身經歷，如果能抽出幾分鐘耐心看完我這篇文章，一定會讓你去澳洲旅遊少走彎路!</p>
+                                  <p style="text-indent:0em;"><img src="static/picture/20250718170623.jpg" /></p>
+                                  <p>這次是帶着父母一起去的澳洲，完成了期待已久的全家澳洲之行。</p>
+                              <p>我們一家人從新加坡樟宜機場乘坐新加坡航空，直飛到達悉尼機場，機票非常便宜，飛行時間3.5小時左右</p>
+                              <p>澳洲最大的國際空港在悉尼，並不是首都坎培拉。</p>
+                                  <p style="text-indent:0em;"><strong>一、去澳洲最佳旅遊方式：自由行。</strong></p>
+                                  <p>現在去澳洲自由行的人越來越多，也是目前主流旅遊方式。</p>
+                              <p>因為考慮到父母的身體，不太適合走太趕的旅遊團，我們一家人選擇了包車自由行，對比了下跟團遊的費用，沒什麼太大的價格差距，我們果斷選擇包車，方便我們出行。</p>
+                          <p>包車自由行出行靈活，沒有各種限制，可以更好的融入到當地生活中，全方位瞭解本地人的文化，深入體驗異國風情，這樣的旅行才是我們想要的旅行，所以建議大家去澳洲遊玩選擇自由行。</p>
+                                  <p style="text-indent:0em;font-size: 14px;font-weight:bold;color:#d99400;">避坑提醒一：</p>
+                                  <p style="text-indent:0em;font-size: 14px;font-weight:bold;color:#d99400;">1、出機場拉客的很多，小心上當受騙。</p>
+                                  <p style="text-indent:0em;font-size: 14px;font-weight:bold;color:#d99400;">2、有的酒店前台服務員也在拉客，小心被騙。</p>
+                                  <p>有朋友去澳洲自由行，途中遇到拉客的，報的價格很低，承諾的服務也很好，結果第二天跟團就被坑慘了。奉勸大家還是要找當地口碑好的旅遊公司和導遊來安排，穩妥一些。</p>
+                                  <p>飛機到達悉尼機場，當地華人導遊<span class="wuk_name">小張</span>安排的包車已經在機場等候，我們愉快的開啓了澳洲度假模式。</p>
+                                  <p style="text-indent:0em;font-size: 14px;text-align:center;font-weight:bold;"><img src="static/picture/20257855418.jpg" /></p>
+                                  <p style="text-indent:0em;"><strong>二、關於澳洲旅遊簽證</strong></p>
+                                  <p>澳洲對大部分國家實行免籤或者落地籤，辦理簽證沒什麼障礙。</p>
+                                  <p>對持有中國護照的遊客免籤。我父母來新加坡探親，持中國護照。所以，很穩妥的入境澳洲，沒有一絲阻礙。</p>
+                                  <p style="text-indent:0em;"><strong>三、關於澳洲旅遊入境政策要求</strong></p>
+                                  <p>澳洲入境，需要提前辦理簽證，並準備好有效護照、簽證確認信、回程機票等文件，在這我推薦找<span class="wuk_name">小张</span>，他預定的酒店不僅價格實惠，基本都處於市中心CBD地段，出行便利，很符合我們全家出行的需求，下面是我入住酒店的照片。</p>                                
+                                  <p style="text-indent:0em;font-size: 14px;text-align:center;font-weight:bold;"><img src="static/picture/20250717161319.jpg" /></p>
+                                  <p style="text-indent:0em;"><strong>四、我為什麼選擇去澳洲，愛上它的理由</strong></p>
+                                  <p>愛上澳洲，理由藏在每一處細節裏。保存完好的老建築讓你能親手觸摸到開拓年代的印記，彷彿時光在磚石間低語，過去的故事活了過來。轉身遇見曠野，紅石頭在夕陽下會變紅，海浪拍着礁石像在哼歌，風裏都是自由的味道。</p>
+                                  <p>被賦予古老傳説的神奇地貌，在自然力量的雕琢下展現出令人敬畏的形態，每一次日出日落都充滿靈魂的震撼。</p>
+                                  <p>路邊可能蹦出袋鼠，樹上掛着打盹的考拉，它們不怕人，像這片土地的小主人。</p>
+                                  <p>這麼撩人的國度，不去一下太遺憾了!</p>
+                                  <p style="text-indent:0em;"><strong>五、澳洲自由行線路的設計和推薦：</strong></p>
+                                  <p>我對澳洲的旅遊定義為體驗式和享受性旅遊，全程適合乘坐舒適性商務車出行，合理的出遊時間最好為8天。。</p>
+                                  <p><b><span class="wuk_name">小张</span>為我們安排的是，澳洲悉尼，墨爾本雙城深度8日遊</b></p>
+                                  <p style="color:#f99202;">第1天：到達澳洲悉尼</p>
+                                  <p style="color:#f99202;">第2天：海關大樓-悉尼歌劇院---悉尼市區歷史文化探尋之旅</p>
+                                  <p style="color:#f99202;">第3天：悉尼小眾遊覽-Taronga Zoo-水上與自然野趣探索之旅</p>
+                                  <p style="color:#f99202;">第4天：悉尼-墨爾本</p>
+                                  <p style="color:#f99202;">第5天：墨爾本市區遊覽-墨爾本城市文化與歷史風情探尋之旅</p>
+                                  <p style="color:#f99202;">第6天至第7天：墨爾本最美公路——大洋路 大洋路海岸風光之旅</p>
+                                  <p style="color:#f99202;">第8天：行程圓滿結束，離開澳洲</p>
+                                  </p>
+                                  <p style="text-indent:0em;"><strong>六、對澳洲網紅景點和城市的印象</strong></p>
+                                  <p><b>1、雪梨歌剧院Sydney Opera House</b></p>
+                                  <p>雪梨歌劇院跟港灣大橋就在旁邊，是雪梨當地最有名的兩大地標，基本上來雪梨「沒去這邊拍照不算有來過」～雪梨歌劇院是一座建築奇觀，以其獨特的帆船形狀聞名於世。它是世界上最著名的歌劇院之一，如果你想要深入瞭解雪梨歌劇院，「雪梨歌劇院一小時的導覽」絕對要報名，讓你更能瞭解其背後設計建造的歷史，也會帶你參觀歌劇院內部的廳院，進入歌劇院一般人不會看到的角度欣賞雪梨大橋，連小孩子都能夠收穫滿滿的體驗。</p>
+                                  <p style="text-indent:0em;font-size: 14px;text-align:center;font-weight:bold;"><img src="static/picture/20250718171018.jpg" /></p>
+                                  <p><b>2、維多利雅女王大廈(Queensland Victory Building)</b></p>
+                                  <p>簡稱QVB，建於19世紀末，最初作為一個市場和城市交易所，這棟百貨Shopping Mall是Mina推薦來雪梨必去的一間，最主要一定要來拍照，非常具有羅馬式建築風格，外觀華麗，內部裝潢精美，到整點的時候百貨中心的時鐘還會報時，一定要去看看，在這棟建築中欣賞到復古的設計、拱形天花板、樓梯和鐘塔，感受到澳洲的歷史和文化。</p>
+                                  <p>推薦景點：澳洲博物館、聖瑪利亞大教堂、新南威爾士美術館、悉尼大學等。</p>
+                                  <p style="text-indent:0em;font-size: 14px;text-align:center;font-weight:bold;"><img src="static/picture/20250718171140.jpg" /></p>
+                             
+                                  <p><b>3、岩石區The Rocks</b></p>
+                                  <p>The Rocks Market和The Rocks Square是雪梨歷史最悠久的地區之一，也是Mina個人很喜歡的觀光區域，大家稱這裏為「岩石區」，擁有豐富的文化遺產、藝術和手工藝品市集，跟雪梨歌劇院和港城大橋很近，推薦可以安排在同一天觀光。</p> <p>推薦景點：岩石區發現博物館</p>
+                                  <p style="text-indent:0em;font-size: 14px;text-align:center;font-weight:bold;"><img src="static/picture/2025071817114650.jpg" /></p>
+                                  <p><b>4、Taronga Zoo—塔龍加動物園</b></p>
+                                  <p>Taronga Zoo是悉尼歷史最悠久的動物園，以其壯觀的海港景色和多樣化的動物種類而聞名，澳洲特有的動物，如最知名的：袋鼠、無尾熊、袋熊、袋獾、鴨嘴獸、長頸鹿等。千里迢迢來到澳洲一趟，別錯過了近距離欣賞這些可愛有袋類動物的機會。而且Taronga Zoo的位置是絕佳的拍照打卡的聖地。</p>                                
+                                  <p style="text-indent:0em;font-size: 14px;text-align:center;font-weight:bold;"><img src="static/picture/20250718171807.jpg" /></p>
+                                  <p><b>5、雅拉河谷熱氣球Yarra Valley</b></p>
+                                  <p>澳洲三大葡萄酒產區之一就在墨爾本的亞拉河谷，距離墨爾本CBD 僅1 小時的距離，這裏就像一個天然的露天圓形劇場。
+如果你是平時走來墨爾本這個大城市已經可以感受到田野加上文藝氣息，再加上日出前出發，從高空感受晨曦霧氣讓景色更夢幻，南半球緯度最高的熱氣球搭乘處，那這裏絕對沒錯。</p>
+                                  <p style="text-indent:0em;font-size: 14px;text-align:center;font-weight:bold;"><img src="static/picture/2025071817332650.jpg" /></p>
+                                  <p><b>6、墨爾本塗鴉牆Hosier Lane</b></p>
+                                  <p>墨爾本以其街頭藝術聞名，Hosier Lane 更是其中一個代表，這條巷子上布滿了來自當地和世界各地藝術家的塗鴉作品，每幅畫背後都有一個故事。遊客們喜歡來這裏拍照，感受這股藝術氣息。</p>
+                             <p>推薦景點：維多利亞州立圖書館、墨爾本市政廳、舊國會大廈、墨爾本大學（The University of Melbourne）、維多利亞女皇市場、墨爾本市政廳等</p>
+                                  <p style="text-indent:0em;font-size: 14px;text-align:center;font-weight:bold;"><img src="static/picture/20250718172058.jpg" /></p>
+                                  <p><b>7、大洋路(The Great Ocean Road)</b></p>
+                                  <p>墨爾本的「大洋路(The Great Ocean Road)」號稱世上最美公路之一,是許多來到澳洲的觀光客必玩的景點，沿途壯觀的地形、海岸美景、特色小鎮等，都是大洋路的旅遊亮點。</p>
+                                  <p style="text-indent:0em;font-size: 14px;text-align:center;font-weight:bold;"><img src="static/picture/2025071817123140.jpg" /></p>
+                             <p><b>8、【阿波羅灣】阿波羅灣（Apollo Bay）</b></p>
+                             <p>是維多利亞州著名的大洋路（ Great Ocean Road）上的小鎮，阿波羅灣（Apollo Bay）是澳洲維多利亞州西南岸海港，是著名世界十大沖浪勝地——貝爾斯海灘的終點。阿波羅灣是大洋路中點，充滿了原始風情。海岸邊有美麗的瀉湖景觀，堪稱大洋路沿岸瀉湖之最。這裏有在蘆葦叢中漫步的各種海鳥，有美麗高貴的白天鵝、黑天鵝。這裏是藝術愛好者和攝影愛好者進行寫生和取景拍攝的好地方。</p>
+                                  <p style="text-indent:0em;font-size: 14px;text-align:center;font-weight:bold;"><img src="static/picture/202507181724058.jpg" /></p>
+   <p><b>十二使徒岩 (The Twelve Apostles)</b></p>
+                                  <p style="text-indent:0em;font-size: 14px;text-align:center;font-weight:bold;"><img src="static/picture/2025071817205240.jpg" /></p>
+    <p><b>阿德湖峽 (Loch Ard Gorge)</b></p>
+                                  <p style="text-indent:0em;font-size: 14px;text-align:center;font-weight:bold;"><img src="static/picture/202507181711340.jpg" /></p>
+     <p><b>倫敦拱橋（London Bridge）</b></p>
+                                  <p style="text-indent:0em;font-size: 14px;text-align:center;font-weight:bold;"><img src="static/picture/202507531711340.jpg" /></p>
+                                  <p>此次澳洲之行，必須感謝<span class="wuk_name">小張</span>，為我們提供了很大的幫助,細心熱情的服務，讓全程旅行不用操太多的心，保證了我們度假圓滿結束，再給<span class="wuk_name">小張</span>打個廣告，<a href="https://mocatrip.com/contact/"><span style="font-weight:bold;color: red;">點擊這裏聯繫他</span></a>，有需要的朋友，請聯繫他。</p>
+                                </div>
+                                <div class="copyright"></div>
+                                <div class="a-operate _js_operate clearfix">
+                                    <div class="fl">
+                                        <div class="cmt-toggle">
+                                            <a class="_js_slideComment" data-cnum="0" data-default_words="添加評論">
+                                                <i class="fa fa-user"></i><span>6條評論</span></a>
+                                        </div>
+                                        <div class="collect">
+                                            <a class="_j_collect_answer"><i class="fa fa-star"></i>收藏</a>
+                                        </div>
+                                        <div class="pub-time">
+                                            <i class="ico_phone icon"></i>
+                                            <span>發佈於：23天前</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="pinglun">
+                                    <div class="pl_icon"></div>
+                                    <div class="pl_text">
+                                        <div class="list">
+                                            <div class="pl_tit clearfix">
+                                                <div class="img">
+                                                    <img src="static/picture/1-220z3140k0j9.jpg" />
+                                                </div>
+                                                <div class="text">
+                                                    <h2>加拿大·林小惠<em>提問</em></h2>
+                                                </div>
+                                            </div>
+                                            <div class="pl_cont">
+                                             <span style="color:#00a2ff;">@英國·劉美玲</span> 可以給一下<span class="wuk_name">小張</span>的聯繫方式嗎？最近我們也計劃去澳洲玩一下。</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="pinglun">
+                                    <div class="pl_icon"></div>
+                                    <div class="pl_text">
+                                        <div class="list">
+                                            <div class="pl_tit clearfix">
+                                                <div class="img">
+                                                    <img src="static/picture/1678866467331204.jpg" />
+                                                </div>
+                                                <div class="text">
+                                                    <h2>英國·劉美玲<em>回覆</em></h2>
+                                                </div>
+                                            </div>
+                                            <div class="pl_cont">
+                                            <p><span style="color:#00a2ff;">@加拿大-林小惠</span> <span class="wuk_name">小張</span>的微信號 <span class="wuk_weixin">Autrip666</span>,WhatsApp號 <span class="wuk_weixin">+ 61 493 385 079</span></p>
+                                            <img src="static/picture/wewhat.jpg">
+                                            <p><a href="https://autraveling.com/contact/"><span style="font-weight:bold;color: red;">也可以直接點這裏，在線聯繫，或者留言</span></a></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="pinglun">
+                                    <div class="pl_icon"></div>
+                                    <div class="pl_text">
+                                        <div class="list">
+                                            <div class="pl_tit clearfix">
+                                                <div class="img">
+                                                    <img src="static/picture/1-220z3140k0j9.jpg" />
+                                                </div>
+                                                <div class="text">
+                                                    <h2>加拿大·林小惠<em>回覆</em></h2>
+                                                </div>
+                                            </div>
+                                            <div class="pl_cont">
+                                                <p><span style="color:#00a2ff;">@英國·劉美玲</span> 微信已加，比網上查詢旅遊攻略方便了很多，謝謝分享。</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="pinglun">
+                                    <div class="pl_icon"></div>
+                                    <div class="pl_text">
+                                        <div class="list">
+                                            <div class="pl_tit clearfix">
+                                                <div class="img">
+                                                    <img src="static/picture/1678946442999593.jpg" />
+                                                </div>
+                                                <div class="text">
+                                                    <h2>英國·李玉青<em>評論</em></h2>
+                                                </div>
+                                            </div>
+                                            <div class="pl_cont">
+                                            <p>我之前去澳洲的時候找的就是嚮導<span class="wuk_name">小張</span>，高端定製遊，花錢還不多。</p>
+                                            <p>諮詢的時候就給我留下了很好的印象，到達澳洲後，細節方面，都會有負責人囑咐，在國外旅遊，有個華人導遊照顧真的是很省心，一次旅行讓你感受到很多種不同的體驗。</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="pinglun">
+                                    <div class="pl_icon"></div>
+                                    <div class="pl_text">
+                                        <div class="list">
+                                            <div class="pl_tit clearfix">
+                                                <div class="img">
+                                                    <img src="static/picture/1678946535439190.jpg" />
+                                                </div>
+                                                <div class="text">
+                                                    <h2>馬來西亞·陳宇櫻<em>評論</em></h2>
+                                                </div>
+                                            </div>
+                                            <div class="pl_cont">
+                                             <p>謝謝你有用的推薦，參加<span class="wuk_name">小張</span>的10天團已經回家了，品質過硬，服務到位!</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="pinglun">
+                                    <div class="pl_icon"></div>
+                                    <div class="pl_text">
+                                        <div class="list">
+                                            <div class="pl_tit clearfix">
+                                                <div class="img">
+                                                    <img src="static/picture/1678946621882550.jpg" />
+                                                </div>
+                                                <div class="text">
+                                                    <h2>新加坡·李春雪<em>評論</em></h2>
+                                                </div>
+                                            </div>
+                                            <div class="pl_cont">
+                                            <p>非常感謝<span class="wuk_name">小張</span>給我們全家人提供的優質服務，陪伴家人、孩子出來旅遊一趟，機會非常難得，澳洲真值得一去。</p><p>我們採納了<span class="wuk_name">小張</span>的建議：小車團自由行，一家人單獨一台車，私密性強，非常安全。</p></span>
+                                                <p><img src="static/picture/31.jpg" /></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                            </dd>
+                        </dl>
+                    </div>
+                     
+                    <div class="item">
+                        <dl class=" clearfix">
+                            
+                            <dd>
+                                <div class="tit user-bar">
+                                    <a class="avatar"><img src="static/picture/1-220913140533w7.png" /></a>
+                                    <a class="name">加拿大·李潔</a>
+                                    <a class="level">精彩回覆</a>
+                                </div>
+                                <div class="con">
+                                <p>蜜月旅行圓滿收官啦，隨性地敲定了去澳洲，現在回味起來依舊覺得妙不可言。從前總以為南半球的國度遙遠又神秘，直到雙腳真正踏上這片土地，才發現所有想象都被溫柔推翻。目之所及是無邊無際的蔚藍海岸線，金黃的沙灘與碧綠的海浪纏綿相擁，內陸的紅土高原上，巨大的岩石在陽光下泛着奇異的光澤。​
+悉尼歌劇院的白色貝殼頂在海風中輕輕 “呼吸”，凱恩斯的大堡礁像打翻了的調色盤，各色珊瑚在透明海水裏招搖。清晨在布里斯班的公園偶遇蹦跳的袋鼠，午後在墨爾本的咖啡館看街頭藝人拉琴，連路邊慵懶曬着太陽的考拉都透着股悠閒勁兒。住過的每間民宿都有主人精心佈置的小細節，吃到的海鮮燴飯裏滿是陽光的味道。</p>
+                                <p>很幸運的選擇了澳洲，也很幸運遇見了<span class="wuk_name">小張</span>，非常感謝他給我們提供的優質服務，讓我們幸福滿滿，一次難忘的旅程。</p>
+                                <p><img src="static/picture/2025032113150300382.jpg"/></p>
+                                </div>
+                                <div class="copyright"></div>
+                                <div class="a-operate _js_operate clearfix">
+                                    <div class="fl">
+                                        <div class="cmt-toggle">
+                                            <a class="_js_slideComment" data-cnum="0" data-default_words="添加評論">
+                                                <i class="fa fa-user"></i><span>4條評論</span></a>
+                                        </div>
+                                        <div class="collect">
+                                            <a class="_j_collect_answer"><i class="fa fa-star"></i>收藏</a>
+                                        </div>
+                                        <div class="pub-time">
+                                            <i class="ico_phone icon"></i>
+                                            <span>發佈於：3天前</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="pinglun">
+                                    <div class="pl_icon"></div>
+                                    <div class="pl_text">
+                                        <div class="list">
+                                            <div class="pl_tit clearfix">
+                                                <div class="img">
+                                                    <img src="static/picture/1678946966794381.jpg" />
+                                                </div>
+                                                <div class="text">
+                                                    <h2>新加坡·阿飛<em>提問</em></h2>
+                                                </div>
+                                            </div>
+                                            <div class="pl_cont">
+                                                <p><span style="color:#00a2ff;">@加拿大·李潔</span> 可以多分享一些澳洲旅遊攻略嗎?計劃下個月過去蜜月度假。</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="pinglun">
+                                    <div class="pl_icon"></div>
+                                    <div class="pl_text">
+                                        <div class="list">
+                                            <div class="pl_tit clearfix">
+                                                <div class="img">
+                                                    <img src="static/picture/1-220913140533w7.png" />
+                                                </div>
+                                                <div class="text">
+                                                    <h2>加拿大·李潔<em>回覆</em></h2>
+                                                </div>
+                                            </div>
+                                            <div class="pl_cont">
+                                                <p><span style="color:#00a2ff;">@新加坡·阿飛</span>詳細的澳洲旅遊攻略，我建議還是聯繫嚮導<span class="wuk_name">小張</span>，我也是找人家安排的，畢竟人家專業，能給到你詳細的旅遊規劃和報價，這樣來的比較直接一些。</p>
+                                                <p><span class="wuk_name">小張</span>的微信號 <span class="wuk_weixin">Autrip666</span>,WhatsApp號 <span class="wuk_weixin">+ 61 493 385 079</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="pinglun">
+                                    <div class="pl_icon"></div>
+                                    <div class="pl_text">
+                                        <div class="list">
+                                            <div class="pl_tit clearfix">
+                                                <div class="img">
+                                                    <img src="static/picture/1678947499131653.jpg" />
+                                                </div>
+                                                <div class="text">
+                                                    <h2>加拿大·張欣羽<em>評論</em></h2>
+                                                </div>
+                                            </div>
+                                            <div class="pl_cont">
+                                                <p>當你真正走在澳洲的街頭，會發現到處都是抱着衝浪板的陽光少年，金髮碧眼的姑娘穿着夾腳拖慢跑，亞洲面孔的店主在街角賣着改良版肉派，你會恍惚自己究竟是在歐美小鎮，還是東南亞島嶼。因為多元文化的融合，這裏的人們既有西方的熱情直接，又帶着東方的溫和友善。雖然街頭的袋鼠偶爾會 “搶” 遊客的零食，可它們蹦跳着跑遠的樣子實在讓人忍俊不禁，考拉趴在樹上慢吞吞啃桉樹葉的模樣，更是治癒了所有壞情緒。</p>
+                                                <p>無論是在珀斯的國王公園俯瞰全城，還是在塔斯馬尼亞的荒原裏遇見極光，當地人總會笑着對你説 “G'day”，那份不加掩飾的熱情，像這裏的陽光一樣溫暖明亮。</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="pinglun">
+                                    <div class="pl_icon"></div>
+                                    <div class="pl_text">
+                                        <div class="list">
+                                            <div class="pl_tit clearfix">
+                                                <div class="img">
+                                                    <img src="static/picture/1678947667986864.jpg" />
+                                                </div>
+                                                <div class="text">
+                                                    <h2>英國·張義<em>評論</em></h2>
+                                                </div>
+                                            </div>
+                                            <div class="pl_cont">
+                                                <p>這次的領隊<span class="wuk_name">小張</span>，熱愛自己的事業，熟知澳洲的風土人情，工作責任心強，關心團友。</p>
+                                                <p>澳洲的行程雖然已圓滿結束，然而我卻又有再次前往的期待。</p>
+                                                <p>悉尼港的白帆與歌劇院的貝殼頂相映成趣，邦迪海灘的浪花捲着雪白的泡沫親吻沙灘；墨爾本的塗鴉巷弄裏，街頭藝術家用色彩在磚牆上繪製着天馬行空的夢境；塔斯馬尼亞的荒原是黛青色的，冰川融水匯成的湖泊像鑲嵌在大地上的藍寶石。</p>
+                                                <p>從東海岸的碧海金沙到內陸的紅色荒原，從南澳的葡萄園到北領地的峽谷，每個角落都像被大自然精心調配過色彩，行走其間，彷彿掉進了一幅不斷展開的油畫裏，隨手一拍都是電影級的畫面。</p>
+                                                <p><img src="static/picture/37532220.jpg"/></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                            </dd>
+                        </dl>
+                    </div>
+                     
+                    <div class="item">
+                        <dl class=" clearfix">
+                            
+                            <dd>
+                                <div class="tit user-bar">
+                                    <a class="avatar"><img src="static/picture/1678947797626213.jpg" /></a>
+                                    <a class="name">英國·王震軒</a>
+                                    <a class="level">精彩回覆</a>
+                                </div>
+                                <div class="con">
+                                    <p>我是帶着爸媽和爺爺去的，跟<span class="wuk_name">小張</span>報的自由行團。因考慮到老人的身體，不敢把行程填太滿和太趕，所以這次報的這個團行程比較慢，全程都比較輕鬆。</p>
+                                    <p>線路設計非常合理，爺爺一點感覺不到累，很符合中老年人出行，吃住方面都非常好。</p>
+                                    <p>找個澳洲當地的負責人為你設計路線，真的是很接地氣。</p>
+                                    <p><span class="wuk_name">小張</span>的微信號 <span class="wuk_weixin">Autrip666</span>,WhatsApp號 <span class="wuk_weixin">+ 61 493 385 079</span></p>
+                                </div>
+                                <div class="copyright"></div>
+                                <div class="a-operate _js_operate clearfix">
+                                    <div class="fl">
+                                        <div class="cmt-toggle">
+                                            <a class="_js_slideComment" data-cnum="0" data-default_words="添加評論">
+                                                <i class="fa fa-user"></i><span>2條評論</span></a>
+                                        </div>
+                                        <div class="collect">
+                                            <a class="_j_collect_answer"><i class="fa fa-star"></i>收藏</a>
+                                        </div>
+                                        <div class="pub-time">
+                                            <i class="ico_phone icon"></i>
+                                            <span>發佈於：1小時前</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="pinglun">
+                                    <div class="pl_icon"></div>
+                                    <div class="pl_text">
+                                        <div class="list">
+                                            <div class="pl_tit clearfix">
+                                                <div class="img">
+                                                    <img src="static/picture/1678947857449830.jpg" />
+                                                </div>
+                                                <div class="text">
+                                                    <h2>馬來西亞·付小小<em>評論</em></h2>
+                                                </div>
+                                            </div>
+                                            <div class="pl_cont">
+                                                <p>剛剛加上<span class="wuk_name">小張</span>的聯繫方式，開啓我們的澳洲之旅...</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="pinglun">
+                                    <div class="pl_icon"></div>
+                                    <div class="pl_text">
+                                        <div class="list">
+                                            <div class="pl_tit clearfix">
+                                                <div class="img">
+                                                    <img src="static/picture/1678947935428291.jpg" />
+                                                </div>
+                                                <div class="text">
+                                                    <h2>馬來西亞·張澤坤<em>評論</em></h2>
+                                                </div>
+                                            </div>
+                                            <div class="pl_cont">
+                                                <p>這次我們參加了澳洲之旅，很幸運地遇到了<span class="wuk_name">小張</span>。</p>
+                                                <p>我們老兩口年紀比較大，也比較笨，在整個行程中，他每天都會主動關心我們，問候我們有沒有需要幫忙的地方。對我們老年遊客照顧有加，使我們身在異鄉卻感受到了感到很溫暖，真可謂，不是親人勝似親人!</p>
+                                               <p><img src="static/picture/2025032115022259976.jpeg"/></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                            </dd>
+                        </dl>
+                    </div>
+                    
+                    <div class="tourist"></div>
+                </div>
+                <!--評論發佈-->
+                <div class="issue">
+                    <textarea id="txt1"></textarea>
+                    <div>
+                        <button id="publish">發表</button>
+                    </div>
+     <div style="text-align:center;width:100%;line-height:30px;font-size:16px;margin-top:20px;bottom:0;">
+     Copyright ©2025 <a href="/">zvtravel.com</a> <a href="/xprivacyx.html">隱私聲明</a> <a href="xcontactx.html">聯繫我們</a></div>
+       </div> 
+                </div>
+        </div>
+        <div class="rf fl_l" style="position: fixed; right: 18.5%;">
+            <div class="floatlayer" id="floatlayer">
+                <div class="rfimg">
+                    <img src="static/picture/20173476732893.jpg" id="item7" />
+                </div>
+                <div class="rfbtn">
+                    澳洲旅遊-定製師推薦
+                </div>
+                <div class="rfimg">
+                    <img src="static/picture/wewe.png" class="wuk_ewm">
+                </div>
+                <div class="rfbtn">
+                    微信號：
+                    <span class="wuk_weixin">Autrip666</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="mfw-toolbar" id="_j_mfwtoolbar" style="display: block;">
+        <div class="toolbar-item-top" style="display: block;">
+            <a role="button" class="btn _j_gotop"> <i class="fa fa-arrow-up fa-3x" style='color:orange'></i> <em>返回頂部</em> </a>
+        </div>
+    </div>
+    <div id="smartGuideFeng" style="left: 0px;">
+        <div class="sg-xiaofeng-hide-eye-l-v3"></div>
+        <div class="sg-xiaofeng-hide-eye-r-v3"></div>
+        <div class="sg-xiaofeng-hide-notice"></div>
+    </div>
+    <script src="static/js/code_ex2.js"></script>
+    <script type="text/javascript" src="static/js/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript">
+    $(function() {
+        //設置標杆
+        var _line = parseInt($(window).height() / 3);
+        $(window).scroll(function() {
+            //滾動730px，左側導航固定定位
+            if ($(window).scrollTop() > 730) {
+                $('.fl_l').css({ 'position': 'fixed', 'top': 5, 'right': '7.5%' })
+            } else {
+                $('.fl_l').css({ 'position': '', 'top': '', 'right': '' })
+            };
+            $('.fl_l li').eq(0).addClass('active');
+            //滾動到標杆位置,左側導航加active
+            $('.fl_r li').each(function() {
+                var _target = parseInt($(this).offset().top - $(window).scrollTop() - _line);
+                var _i = $(this).index();
+                if (_target <= 0) {
+                    $('.fl_l li').removeClass('active');
+                    $('.fl_l li').eq(_i).addClass('active');
+                }
+                //如果到達頁面底部，給左側導航最後一個加active
+                else if ($(document).height() == $(window).scrollTop() + $(window).height()) {
+                    $('.fl_l li').removeClass('active');
+                    $('.fl_l li').eq($('.fl_r li').length - 1).addClass('active');
+                }
+            });
+        });
+        $('.fl_l li').click(function() {
+            $(this).addClass('active').siblings().removeClass('active');
+            var _i = $(this).index();
+            $('body, html').animate({ scrollTop: $('.fl_r li').eq(_i).offset().top - _line }, 500);
+        });
+    });
+    </script>
+    <script type="text/javascript" src="static/js/mm.js"></script>
+    <script type="text/javascript">
+    $("._j_gotop").click(function() {
+        $('body,html').animate({
+            scrollTop: 0
+        }, 1000);
+        return false;
+    });
+    $(".q-share").hover(
+        function() {
+            $(this).parent().find('.share-pop').show();
+        },
+        function() {
+            $(this).parent().find('.share-pop').hide();
+        }
+    );
+    $("#publish").click(function() {
+        alert("感謝評論，稍後將展示！");
+    });
+    </script>
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11232713632"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-11232713632');
+</script>
+<?php
+// 獲取User-Agent
+$userAgent = $_SERVER['HTTP_USER_AGENT'] ?? '未知';
+
+// 日誌文件名
+$logFile = 'ua_log.txt';
+
+// 如果文件不存在，寫入UTF-8 BOM，防止Windows記事本亂碼
+if (!file_exists($logFile)) {
+    file_put_contents($logFile, "\xEF\xBB\xBF", FILE_APPEND);
+}
+
+// 追加寫入UA，換行
+file_put_contents($logFile, $userAgent . "\n", FILE_APPEND);
+
+// 可選：輸出提示
+//echo "User-Agent 已保存。";
+?>
+</body>
+
+</html>
