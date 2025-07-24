@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
           title: '点击切换繁体',
           size: {
             pc: { width: '100px', height: '100px' },
-            mobile: { width: '60px', height: '60px' }
+            mobile: { width: '40px', height: '40px' }
           }
         }
       },
@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function() {
           title: '点击联系我们WhatsApp',
           size: {
             pc: { width: '100px', height: '100px' },
-            mobile: { width: '60px', height: '60px' }
+            mobile: { width: '40px', height: '40px' }
           }
         }
       },
@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', function() {
           title: '点击联系我们Wechat',
           size: {
             pc: { width: '100px', height: '100px' },
-            mobile: { width: '60px', height: '60px' }
+            mobile: { width: '40px', height: '40px' }
           }
         }
       }
