@@ -13,12 +13,13 @@ document.getElementById('messageForm').addEventListener('submit', function(e) {
     statusDiv.innerHTML = '<p>提交中...</p>';
     
     // 发送数据到API
-    fetch('https://autr.1c.q56.dpdns.org/3/api.php', {  // 替换为A站的实际域名
+    fetch('https://a-site-domain.com/api.php', {  // 替换为A站的实际域名
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
         },
-        body: JSON.stringify({ name, content })
+        body: JSON.stringify({ name, content }),
+        credentials: 'include'  // 确保发送cookie和认证信息
     })
     .then(res => res.json())
     .then(data => {
