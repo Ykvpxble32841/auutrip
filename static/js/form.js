@@ -15,7 +15,7 @@ document.getElementById('messageForm').addEventListener('submit', function(e) {
     console.log('准备提交表单:', { name, content });
     
     // 发送数据到API
-    fetch('https://a-site-domain.com/api.php', {  // 替换为A站的实际域名
+    fetch('https://autr.1c.q56.dpdns.org/3/api.php', {  // 替换为A站的实际域名
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
