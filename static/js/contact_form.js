@@ -149,5 +149,30 @@ var BilibiliContactForm = (function() {
     };
 })();
 
+// contact_form.js
+document.getElementById('contact-form').addEventListener('submit', function(e) {
+    e.preventDefault();
+    
+    // 简单验证
+    const name = document.getElementById('name').value.trim();
+    const phone = document.getElementById('phone').value.trim();
+    const email = document.getElementById('email').value.trim();
+    const message = document.getElementById('message').value.trim();
+    
+    if (!name || !phone || !email || !message) {
+        alert('请填写所有字段');
+        return;
+    }
+    
+    // 验证邮箱格式
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (!emailRegex.test(email)) {
+        alert('请输入有效的邮箱地址');
+        return;
+    }
+    
+    // 提交表单
+    this.submit();
+});
  初始化表单
 BilibiliContactForm.init();
