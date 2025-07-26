@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
         id: 'wxp-btn-1',
         enabled: true,           // 第一个按钮默认关闭
         displayDevice: 'all',
-        mode: 'link',
+        mode: 'modal',
         link: '/indexhk',
         modalId: 'wxp-modal',
         openInNewTab: false,      // 链接在当前窗口打开
