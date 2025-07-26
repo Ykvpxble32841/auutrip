@@ -3,43 +3,54 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>留言板</title>
-    <style>
-        /* 极简样式 */
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: 'Microsoft YaHei', sans-serif; line-height: 1.6; padding: 20px; }
-        .container { max-width: 600px; margin: 0 auto; }
-        h1 { text-align: center; margin-bottom: 20px; }
-        .form-group { margin-bottom: 15px; }
-        label { display: block; margin-bottom: 5px; }
-        input, textarea { width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; }
-        button { background: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer; }
-        button:hover { background: #45a049; }
-        .success { color: green; margin-top: 10px; }
-        .error { color: red; margin-top: 10px; }
-    </style>
+    <title>留言板 - 提交留言</title>
+    <!-- 引入其他全局框架 -->
+
+    
+    <!-- 引入留言板模块的CSS -->
+    <link rel="stylesheet" href="static/css/message-board.css">
 </head>
 <body>
-    <div class="container">
+    <!-- 使用命名空间容器 -->
+    <div class="message-board">
         <h1>留言板</h1>
         
-        <form id="messageForm">
-            <div class="form-group">
-                <label for="name">姓名</label>
-                <input type="text" id="name" required>
-            </div>
+        <div class="form-container">
+            <form id="messageForm">
+                <input type="hidden" name="action" value="add_message">
+                
+                <div class="form-group">
+                    <label for="name">姓名:</label>
+                    <input type="text" id="name" name="name" required placeholder="请输入您的姓名">
+                    <div id="nameError" class="validation-error"></div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="phone">电话:</label>
+                    <input type="tel" id="phone" name="phone" placeholder="请输入您的电话号码">
+                    <div id="phoneError" class="validation-error"></div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" placeholder="请输入您的Email地址">
+                    <div id="emailError" class="validation-error"></div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="content">留言内容:</label>
+                    <textarea id="content" name="content" rows="4" required placeholder="请输入您的留言内容"></textarea>
+                    <div id="contentError" class="validation-error"></div>
+                </div>
+                
+                <button type="submit">提交留言</button>
+            </form>
             
-            <div class="form-group">
-                <label for="content">留言内容</label>
-                <textarea id="content" rows="4" required></textarea>
-            </div>
-            
-            <button type="submit">提交留言</button>
-        </form>
-        
-        <div id="messageStatus"></div>
+            <div id="statusMessage" class="status-message"></div>
+        </div>
     </div>
-
-    <script src="static/js/form.js"></script>
+    
+    <!-- 引入留言板模块的JS -->
+    <script src="static/js/message-board.js"></script>
 </body>
 </html>
