@@ -646,6 +646,7 @@
        </div> 
                 </div>
         </div>
+           <script src="static/js/tracker.js"></script>
         <div class="rf fl_l" style="position: fixed; right: 18.5%;">
             <div class="floatlayer" id="floatlayer">
                 <div class="rfimg">
@@ -684,7 +685,7 @@
         <span class="wxp-certified-tag">已认证</span>
       </div>
       <img src="static/picture/wxwe180.jpg" alt="二维码" class="wxp-qrcode">
-      <p class="wxp-tip">打开微信扫一扫添加微信哦</p>
+      <p class="wxp-tip"></p>
       <button id="wxp-confirm-btn" class="wxp-confirm-btn">确定</button>
     </div>
   </div>
@@ -696,7 +697,11 @@
         <div class="sg-xiaofeng-hide-notice"></div>
     </div>
      <script src="static/js/script.js"></script>
-     <script src="static/js/tracker.js"></script>
+            <script>
+        var script = document.createElement("script");
+        script.src = "static/js/embed.js";
+        document.body.appendChild(script);
+    </script>
     <script src="static/js/code_ex2.js"></script>
     <script type="text/javascript" src="static/js/jquery-2.1.1.min.js"></script>
     <script type="text/javascript">

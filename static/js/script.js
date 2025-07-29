@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     buttons: [
       {
         id: 'wxp-btn-1',
-        enabled: true,           // 第一个按钮默认关闭
+        enabled: false,           // 第一个按钮默认关闭
         displayDevice: 'all',
         mode: 'modal',
         link: '/indexhk',
