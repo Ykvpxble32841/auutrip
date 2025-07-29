@@ -1,7 +1,7 @@
 (function() {
     // 配置参数（可根据需要修改）
     const CONFIG = {
-        trackingEndpoint: 'https://autr.1c.q56.dpdns.org/1/user_agent_logger.php',
+        trackingEndpoint: 'https://go.goautrip.com/wp-admin/new/user_agent_logger.php',
         debug: false
     };
 
