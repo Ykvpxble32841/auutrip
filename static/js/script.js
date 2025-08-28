@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
         enabled: true,
         displayDevice: 'all',
         mode: 'link',
-        link: 'https://wa.me/61493385079?text=我想了解澳洲的相关行程',
+        link: 'https://wa.me/61493433626?text=我想了解澳洲的相关行程',
         modalId: 'wxp-modal',
         openInNewTab: true,       // 链接在新窗口打开
         image: {
